@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Datos Usuario</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="fechaN">Fecha Nacimiento:</string>
+    <string name="tel">Tel:</string>
+    <string name="email2">Email:</string>
+    <string name="descripcion2">Descripción:</string>
+    <string name="editar">Editar Datos</string>
+    <string name="msgNombre">Debe escribir el Nombre</string>
+    <string name="msgFecha">Debe seleccionar la Fecha</string>
+    <string name="msgTelefono">Debe escribir el Telefono</string>
+    <string name="msgEmail">Debe escribir el Email</string>
+    <string name="msgDescripcion">Debe escribir una descripcion</string>
+
+
+    <string name="pNombreC">nombre</string>
+    <string name="pFechaN">fecha</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pEmail">email</string>
+    <string name="pDescripcion">descripcion</string>
+</resources>

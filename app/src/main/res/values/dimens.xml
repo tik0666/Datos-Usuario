@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textos">18sp</dimen>
+    <dimen name="titulo">26sp</dimen>
+    <dimen name="bottomConfirmar">30dp</dimen>
+    <dimen name="bottomConfirmarButton">50dp</dimen>
+    <dimen name="paddingButtonEditar">40dp</dimen>
+</resources>
